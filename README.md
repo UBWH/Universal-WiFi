@@ -3,7 +3,7 @@
 Welcome to the [UBWH Universal WiFi](https://ubwh.com.au/Universal-WiFi/) product download page. 
 
 1. Click on the chosen release
-1. Expland the `Assets` arrow
+1. Expland the `Assets` arrow (if needed)
 1. Download the Source Code file to your local computer
 1. Unzip the file
     1. The Documentation is in the `documents` folder
