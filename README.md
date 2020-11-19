@@ -1,1 +1,1 @@
-# UniversalWiFi
+# Universal WiFi
