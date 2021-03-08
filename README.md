@@ -11,5 +11,7 @@ Welcome to the [UBWH Universal WiFi](https://ubwh.com.au/Universal-WiFi/) produc
 
 | Release | Products Supported |
 |:---------|:------------------|
-|[Lastest](https://github.com/UBWH/Universal-WiFi/releases/latest)|UNI-UAP|
-|[Lastest](https://github.com/UBWH/Universal-WiFi/releases/latest)|UNI-UAP-AC-LR|
+|[Lastest](https://github.com/UBWH/Universal-WiFi/releases/latest)|UNI-UAP, UNI-UAP-AC-LR|
+|[V1.0](https://github.com/UBWH/Universal-WiFi/releases/tag/V1.0)|UNI-UAP|
+
+
